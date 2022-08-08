@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.exe
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.deps.json
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.runtimeconfig.json
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.dll
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\bin\Debug\netcoreapp3.1\Missednumber.pdb
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.dll
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.pdb
+C:\Users\vchvukula\source\repos\Missednumber\Missednumber\obj\Debug\netcoreapp3.1\Missednumber.genruntimeconfig.cache

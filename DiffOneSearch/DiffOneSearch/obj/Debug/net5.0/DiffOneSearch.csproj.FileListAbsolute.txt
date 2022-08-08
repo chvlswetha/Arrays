@@ -1,0 +1,16 @@
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.exe
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.deps.json
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.runtimeconfig.json
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.dll
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\ref\DiffOneSearch.dll
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\bin\Debug\net5.0\DiffOneSearch.pdb
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.AssemblyInfo.cs
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.dll
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\ref\DiffOneSearch.dll
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.pdb
+C:\KalAcademy\DSA\Arrays\DiffOneSearch\DiffOneSearch\obj\Debug\net5.0\DiffOneSearch.genruntimeconfig.cache

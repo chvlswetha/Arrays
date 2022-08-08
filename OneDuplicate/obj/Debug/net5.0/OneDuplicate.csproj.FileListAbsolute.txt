@@ -1,0 +1,16 @@
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.exe
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.deps.json
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.runtimeconfig.json
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.dll
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\ref\OneDuplicate.dll
+C:\KalAcademy\DSA\Arrays\OneDuplicate\bin\Debug\net5.0\OneDuplicate.pdb
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.AssemblyInfo.cs
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.dll
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\ref\OneDuplicate.dll
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.pdb
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.genruntimeconfig.cache
+C:\KalAcademy\DSA\Arrays\OneDuplicate\obj\Debug\net5.0\OneDuplicate.csproj.AssemblyReference.cache

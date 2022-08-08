@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.exe
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.deps.json
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.runtimeconfig.json
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.dll
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\bin\Debug\netcoreapp3.1\Adjectent element difference.pdb
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.dll
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.pdb
+C:\Users\vchvukula\source\repos\Adjectent element difference\Adjectent element difference\obj\Debug\netcoreapp3.1\Adjectent element difference.genruntimeconfig.cache

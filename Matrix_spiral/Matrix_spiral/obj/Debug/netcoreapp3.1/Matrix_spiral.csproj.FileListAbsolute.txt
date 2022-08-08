@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.exe
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.deps.json
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.runtimeconfig.json
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.dll
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\bin\Debug\netcoreapp3.1\Matrix_spiral.pdb
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.dll
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.pdb
+C:\Users\vchvukula\source\repos\Matrix_spiral\Matrix_spiral\obj\Debug\netcoreapp3.1\Matrix_spiral.genruntimeconfig.cache

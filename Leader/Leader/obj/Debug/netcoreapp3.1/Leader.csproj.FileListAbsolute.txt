@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.exe
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.deps.json
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.runtimeconfig.json
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.dll
+C:\Users\vchvukula\source\repos\Leader\Leader\bin\Debug\netcoreapp3.1\Leader.pdb
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.dll
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.pdb
+C:\Users\vchvukula\source\repos\Leader\Leader\obj\Debug\netcoreapp3.1\Leader.genruntimeconfig.cache

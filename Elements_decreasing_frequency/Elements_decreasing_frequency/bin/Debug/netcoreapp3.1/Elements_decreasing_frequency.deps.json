@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Elements_decreasing_frequency/1.0.0": {
+        "runtime": {
+          "Elements_decreasing_frequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elements_decreasing_frequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

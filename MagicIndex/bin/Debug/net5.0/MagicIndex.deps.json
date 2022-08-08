@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MagicIndex/1.0.0": {
+        "runtime": {
+          "MagicIndex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MagicIndex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

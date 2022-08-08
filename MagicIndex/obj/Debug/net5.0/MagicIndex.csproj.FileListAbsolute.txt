@@ -1,0 +1,16 @@
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.AssemblyInfo.cs
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.exe
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.deps.json
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.runtimeconfig.json
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.dll
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\ref\MagicIndex.dll
+C:\KalAcademy\DSA\Arrays\MagicIndex\bin\Debug\net5.0\MagicIndex.pdb
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.dll
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\ref\MagicIndex.dll
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.pdb
+C:\KalAcademy\DSA\Arrays\MagicIndex\obj\Debug\net5.0\MagicIndex.genruntimeconfig.cache

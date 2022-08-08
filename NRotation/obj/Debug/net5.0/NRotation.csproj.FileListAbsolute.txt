@@ -1,0 +1,16 @@
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.exe
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.deps.json
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.runtimeconfig.json
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.dll
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\ref\NRotation.dll
+C:\KalAcademy\DSA\Arrays\NRotation\bin\Debug\net5.0\NRotation.pdb
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.AssemblyInfo.cs
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.dll
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\ref\NRotation.dll
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.pdb
+C:\KalAcademy\DSA\Arrays\NRotation\obj\Debug\net5.0\NRotation.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.exe
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.deps.json
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.runtimeconfig.json
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.dll
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\bin\Debug\netcoreapp3.1\Elements_decreasing_frequency.pdb
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.dll
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.pdb
+C:\Users\vchvukula\source\repos\Elements_decreasing_frequency\Elements_decreasing_frequency\obj\Debug\netcoreapp3.1\Elements_decreasing_frequency.genruntimeconfig.cache

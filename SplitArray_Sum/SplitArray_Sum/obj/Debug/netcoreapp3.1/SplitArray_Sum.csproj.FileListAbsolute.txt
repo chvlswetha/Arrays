@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.exe
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.deps.json
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.runtimeconfig.json
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.dll
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\bin\Debug\netcoreapp3.1\SplitArray_Sum.pdb
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.dll
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.pdb
+C:\Users\vchvukula\source\repos\SplitArray_Sum\SplitArray_Sum\obj\Debug\netcoreapp3.1\SplitArray_Sum.genruntimeconfig.cache
